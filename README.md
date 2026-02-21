@@ -38,13 +38,13 @@ Generates structured next-best action recommendations.
 
 Drafts professional, executive-ready responses.
 
-**The objective is decision intelligence — not simple automation.**
+**The objective is decision intelligence, not simple automation.**
 
 **## Why This Is a Prototype**
 
 **This application was intentionally built using AI-assisted rapid development tools to validate the product hypothesis quickly.**
 
-**The focus was speed-to-validation, workflow experimentation, and measurable impact simulation — not production-grade infrastructure.**
+**The focus was speed-to-validation, workflow experimentation, and measurable impact simulation.**
 
 **In a full implementation, this system would integrate with CRM, support platforms, and renewal databases for real-time revenue-aware analysis.**
 
